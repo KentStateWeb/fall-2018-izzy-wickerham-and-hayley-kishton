@@ -46,7 +46,7 @@ font-weight: bold;
 }
 
 .top{
-background-image: url(https://drive.google.com/uc?id=1vclQIKbYujkimC7aVZgRysd3A6XhXXUe);
+  background-image: url(https://drive.google.com/uc?id=1vclQIKbYujkimC7aVZgRysd3A6XhXXUe);
 height: 500px;
 background-attachment: fixed;
 position: center;
@@ -74,17 +74,17 @@ transform: translate(-50%, -50%);
   text-shadow: 2px 2px blue;
   text-size: 40px;
 }
-p{
+section p{
   text-align: center;
+  background-color:#6bcef3;
+  padding:1em;
 }
 section .about_main{
   background-color: gray;
 }
+
 .row p{
   text-align: center;
-}
-.row{
-
 }
 
 .launchnet, .past_event{
@@ -92,7 +92,7 @@ section .about_main{
 }
 
 footer{
-  background-color:#126b96;
+  background-color:#6bcef3;
   padding-top: 10px;
   text-align: center;
 }
@@ -102,7 +102,7 @@ footer ul{
 }
 .box{
     width:100%;
-    background-color: rgb(18,107,150, 0.7);
+    background-color: rgb(18,107,150, 0.9);
     padding: 30px;
     margin: 0px;
 }

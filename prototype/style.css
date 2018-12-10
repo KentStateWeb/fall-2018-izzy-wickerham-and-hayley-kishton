@@ -1,6 +1,8 @@
-/*maybe wrong*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
 * {
     box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
 }
 
 header {

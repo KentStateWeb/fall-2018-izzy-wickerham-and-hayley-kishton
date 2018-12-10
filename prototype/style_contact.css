@@ -152,21 +152,17 @@ p {
 }
 .containerB {
 position:relative;
-display: inline-block;
-float:left;
 padding:10px;
 }
 
 .containerH {
 position:relative;
-display: inline-block;
+
 pading:10px;
 }
 .containerD{
 position:relative;
-display: inline-block;
-float:right;
-margin-right:50%;
+
 padding:10px;
 }
 .roles h1{

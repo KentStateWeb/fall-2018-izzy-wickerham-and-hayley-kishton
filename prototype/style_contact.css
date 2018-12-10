@@ -97,11 +97,11 @@ p {
 .containerH {
   position: relative;
   display: inline-block;
-  padding: 20px;
+  padding: 40px;
 }
 .containerB{
   position: relative;
- padding: 20px;
+  padding: 40px;
   display: inline-block;
   float: left;
 }
@@ -110,7 +110,7 @@ p {
   display: inline-block;
   float: right;
   margin-right: 50%;
-  padding: 20px;
+  padding: 40px;
 }
 .image{
   display: block;

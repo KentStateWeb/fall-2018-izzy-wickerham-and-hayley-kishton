@@ -96,22 +96,15 @@ p {
 
 .containerH {
   position: relative;
-  display: inline-block;
-  padding: 40px;
- 
+  width: 50%;
 }
 .containerB{
   position: relative;
-  display: inline-block;
-  float: left;
-  padding: 40px;
+  width: 50%;
 }
 .containerD{
   position: relative;
-  display: inline-block;
-  float: right;
-  margin-right: 50%;
-  padding: 40px;
+  width: 50%;
 }
 .image{
   display: block;
@@ -156,6 +149,25 @@ p {
 .roles ul{
   display: flex;
   list-style-type: none;
+}
+.containerB {
+position:relative;
+display: inline-block;
+float:left;
+padding:10px;
+}
+
+.containerH {
+position:relative;
+display: inline-block;
+pading:10px;
+}
+.containerD{
+position:relative;
+display: inline-block;
+float:right;
+margin-right:50%;
+padding:10px;
 }
 .roles h1{
   font-size: 20px;

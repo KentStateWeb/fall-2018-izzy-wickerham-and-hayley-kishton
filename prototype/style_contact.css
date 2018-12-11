@@ -83,7 +83,7 @@ transform: translate(-50%, -50%);
   padding:90px 0px 0px 0px
 }
 }
-div.item {
+.item div{
     vertical-align: top;
     display: block;
     text-align: center;

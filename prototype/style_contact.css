@@ -167,6 +167,7 @@ p {
 .roles ul{
   display: flex;
   list-style-type: none;
+    padding-top: 2em;
 }
 .containerB {
 position:relative;

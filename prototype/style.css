@@ -1,158 +1,40 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>Team #6: The Fridge</h1>
 
-* {
-    box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
-}
-body { margin:0; }
+    <h2>Research/Competitive Analysis</h2>
 
-header {
-font-family: Noto Sans TC;
-position: absolute;
- width:100%;
-}
-header img{
-  padding-left: 10px;
-  padding-top 10px;
-  position: absolute;
-}
-nav a{
-color: black;
-text-decoration: none;
-top: -80px;
-display: inline;
-font-weight: bold;
+<a href="https://drive.google.com/open?id=1DkXB6SrDh_vIXPCN5YkVolz3VKQrf2B9YC5fdD44OqQ">View Research Report</a>
 
-}
-.box li{
- display: inline;
- margin-right: 1em;
- list-style-type: none;
- float:right;
-}
-.social_logos li{
-  display: inline;
-  margin-right: 1em;
-  list-style-type: none;
-}
+<h2>Content</h2>
 
-.top .group{
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  width: 100%;
-  height: 100%;
-  background-size: cover;
-  z-index: -1;
-}
+<a href="https://drive.google.com/drive/folders/1ueD9WxDPuxKQ_sJkDSZcWXJKthu7Ek6W?usp=sharing">View Content</a>
 
-.top{
-  background-image: url(https://drive.google.com/uc?id=1vclQIKbYujkimC7aVZgRysd3A6XhXXUe);
-height: 500px;
-background-attachment: fixed;
-position: center;
-background-repeat: no-repeat;
-background-size: cover;
-text-align: center;
-padding-top: 1em;
-margin:0px;
-}
-h1{
- position: absolute;
- top: 41%;
- left: 50%;
- transform: translate(-50%, -50%);
-  color: black;
-  text-shadow:  2px 2px gray;
-  font-size: 50px;
+<h2>Sketches</h2>
 
-}
-h2{
-position: absolute;
-top: 50%;
-left: 50%;
-transform: translate(-50%, -50%);
-  color: black;
-  text-shadow: 2px 2px gray;
-  text-size: 40px;
-  padding:90px 0px 0px 0px
-}
-section p{
-  text-align: center;
-  background-color:#6bcef3;
-  padding:1em;
-  margin:0px;
-}
+<a href="https://drive.google.com/drive/folders/1EiL0sG0mrIK2Geeae5TLsuKX3EyItjDX?usp=sharing">View Sketches</a>
 
-
-.row p{
-  text-align: center;
-}
-
-.launchnet, .past_event{
-  flex:1;
-}
-
-footer{
-  background-color:#126B96;
-  padding-top: 10px;
-  text-align: center;
-  color:white;
-}
-footer ul{
-  margin-left: auto;
-  margin-right: auto;
-}
-.box{
-    width:100%;
-    background-color: rgb(18,107,150, 0.9);
-    padding: 30px;
-    margin: 0px;
-}
-
-
-.column1 {
-    padding: 10px;
-    word-wrap: break-word;
-  text-align: center;
-	margin:0px;
-}
-
-
-
- h3, p{
-	text-align:center;
-
-}
-
-launchlogo, poster, idea{
-display:block;
-margin-left: auto;
-margin-right: auto;
-width: 40%;
-}
-
-@media screen and (min-width:600px) {
-  .row {
-    display:flex;
-  }
-  .column1 {
-    width: 50%;
-  }
-}
-
-@media screen and (max-width: 420px){
-  .box img{
-    display:none;
-      }
-  
-}
-@media screen and (max-width: 420px){
-  nav a{
-   display: inline-block;
+  <h2>Style </h2>
+ <a href="https://drive.google.com/open?id=18pDWPHpCG_n03LOS_01h-yISH6_22Fmz">View style tile</a><br></br>
+  <a href="https://drive.google.com/open?id=1ezeWQoed5GuWKwL4lQYUVye4UFoBFDq7">View mobile prototype</a><br></br>
+    <a href="https://drive.google.com/open?id=1QP5sFh-QPlLX_TFbGXWr8pPiiTOsW4OE">View desktop prototype</a><br></br>
     
-  }
-  
-}
+    <h2> Usability</h2>
+    <a href="https://drive.google.com/open?id=1l4AnKKKbL4C0OxzTqW7U3UEdT6bZitjArPzMKQ8v8uk">View the usability tests</a>
+    
+    <h2> Check out The Fridge</h2>
+    <a href="https://kentstateweb.github.io/fall-2018-izzy-wickerham-and-hayley-kishton/prototype/index.html">View our Website</a>
+    
+    <h2> Patterns</h2>
+    <a href="https://drive.google.com/open?id=1fBHqNveXGD7X3ZtM7MpsrJVoZuLD_qWFNvIdjtSeDww"> Here are our patterns</a>
+    
+    
+     
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" /> 
+  </body>
+</html>

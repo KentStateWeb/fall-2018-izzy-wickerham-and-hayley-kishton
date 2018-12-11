@@ -2,6 +2,7 @@
 /*maybe wrong*/
 * {
     box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
 }
 
 header {
@@ -57,10 +58,11 @@ text-align: center;
 padding-top: .5em;
  max-height:30%;
  max-width:100%;
+  margin:0px;
 }
-h1{
+.top h1{
  position: absolute;
- top: 41%;
+ top: 40%;
  left: 50%;
  transform: translate(-50%, -50%);
   color:black;
@@ -68,7 +70,7 @@ h1{
   font-size: 50px;
 
 }
-h2{
+.top h2{
 position: absolute;
 top: 50%;
 left: 50%;
@@ -82,9 +84,7 @@ section p{
   text-align: center;
   background-color:#6bcef3;
   padding:1em;
-}
-section .about_main{
-  background-color: gray;
+    margin:0px;
 }
 
 .row p{
@@ -111,11 +111,10 @@ footer ul{
 /* Create two equal columns that floats next to each other */
 .column1 {
     padding: 10px;
-    border-style: solid;
-   border-width: 2px;
-   border-color:white;
+  
     word-wrap: break-word;
   text-align: center;
+    margin:0px;
 }
 
 .reviews{

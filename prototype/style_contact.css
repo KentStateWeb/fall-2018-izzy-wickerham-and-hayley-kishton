@@ -129,7 +129,7 @@ p {
   width: 100%;
   height: 300px;
   width: 300px;
-  padding-right: 1em;
+  padding: 1em;
 }
 .overlay{
   position: absolute;
@@ -170,6 +170,7 @@ p {
     padding-top: 2em;
     align-items: self;
 justify-content: center;
+    padding: 10px;
 }
 .containerB {
 position:relative;

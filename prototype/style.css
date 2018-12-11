@@ -56,6 +56,7 @@ background-repeat: no-repeat;
 background-size: cover;
 text-align: center;
 padding-top: 1em;
+margin:0px;
 }
 h1{
  position: absolute;
@@ -81,6 +82,7 @@ section p{
   text-align: center;
   background-color:#6bcef3;
   padding:1em;
+  margin:0px;
 }
 section .about_main{
   background-color: gray;
@@ -119,6 +121,7 @@ footer ul{
    border-color:white;
     word-wrap: break-word;
   text-align: center;
+	margin:0px;
 }
 
 

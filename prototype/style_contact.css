@@ -74,13 +74,14 @@ max-height: 30%;
 }
 .top h2{
 position: absolute;
-top: 29%;
+top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
-color: black;
-text-shadow: 2px 2px gray;
-text-size: 40px;
-    padding:90px 0px 0px 0px;
+  color: black;
+  text-shadow: 2px 2px gray;
+  text-size: 40px;
+  padding:90px 0px 0px 0px
+}
 }
 div.item {
     vertical-align: top;

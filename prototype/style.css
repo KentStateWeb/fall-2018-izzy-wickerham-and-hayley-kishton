@@ -96,11 +96,10 @@ section p{
 }
 
 footer{
-  background-color:rgb(18,107,150);
+  background-color:#126B96;
   padding-top: 10px;
   text-align: center;
   color:white;
-  margin:0px;
 }
 footer ul{
   margin-left: auto;

@@ -125,6 +125,11 @@ p {
   position: relative;
   width: 50%;
 }
+ @media screen and (max-width: 600px) {
+  .roles ul{
+    flex-direction: column;
+  }
+}
 .image{
   display: block;
   width: 100%;

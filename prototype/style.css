@@ -85,9 +85,7 @@ section p{
   padding:1em;
   margin:0px;
 }
-section .about_main{
-  background-color: gray;
-}
+
 
 .row p{
   text-align: center;
@@ -102,6 +100,7 @@ footer{
   padding-top: 10px;
   text-align: center;
   color:white;
+  margin:0px;
 }
 footer ul{
   margin-left: auto;
@@ -114,12 +113,9 @@ footer ul{
     margin: 0px;
 }
 
-/* Create two equal columns that floats next to each other */
+
 .column1 {
     padding: 10px;
-    border-style: solid;
-   border-width: 2px;
-   border-color:white;
     word-wrap: break-word;
   text-align: center;
 	margin:0px;

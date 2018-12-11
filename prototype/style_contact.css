@@ -168,6 +168,8 @@ p {
   display: flex;
   list-style-type: none;
     padding-top: 2em;
+    align-items: self;
+justify-content: center;
 }
 .containerB {
 position:relative;

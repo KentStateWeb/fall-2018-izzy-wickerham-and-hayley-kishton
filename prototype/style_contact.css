@@ -74,8 +74,8 @@ max-height: 20%;
  top: 20%;
  left: 50%;
  transform: translate(-50%, -50%);
- color: white;
-  text-shadow:  2px 2px yellow;
+ color: black;
+  text-shadow:  2px 2px gray;
   font-size: 50px;
 
 }

@@ -287,5 +287,6 @@ main{
  @media screen and (max-width: 600px) {
   .roles ul{
     flex-direction: column;
+    justify-content: center;
   }
 }

@@ -1,6 +1,13 @@
-
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 *{
 	font-family: 'Open Sans', sans-serif;
 	color: darkblue;
 }
+h2{
+  color:black;
+  
+}
+a{
+	text-decoration:none;
+}
+	

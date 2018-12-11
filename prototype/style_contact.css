@@ -84,8 +84,8 @@ position: absolute;
 top: 29%;
 left: 50%;
 transform: translate(-50%, -50%);
-color: white;
-text-shadow: 2px 2px blue;
+color: black;
+text-shadow: 2px 2px gray;
 text-size: 40px;
 }
 

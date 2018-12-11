@@ -265,3 +265,17 @@ footer ul{
 main{
   background-color: #fdb913;
 }
+
+@media screen and (max-width: 420px){
+  .box img{
+    display:none;
+      }
+  
+}
+@media screen and (max-width: 420px){
+  nav a{
+   display: inline-block;
+    
+  }
+  
+}

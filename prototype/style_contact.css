@@ -168,6 +168,7 @@ p {
   display: flex;
   list-style-type: none;
     padding-top: 2em;
+    padding-left: 33%;
     align-items: self;
 justify-content: center;
 }

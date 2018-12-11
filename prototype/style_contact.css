@@ -51,7 +51,7 @@ font-weight: bold;
 }
 
 .top{
-  background-image: images/banner.jpg;
+  background-image: url(images/banner.jpg);
 height: 500px;
 background-attachment: fixed;
 background-position: bottom;
